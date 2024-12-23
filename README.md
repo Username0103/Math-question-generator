@@ -14,7 +14,7 @@ This is a simple command-line math quiz game written in Python. It allows you to
 ## Running the script
 
 1. **Download the script:** Download the source code and unzip it.
-2. **Run the script:** Open your cmd, cd to the directory where you saved the file, and type: "python math_question_generator_v5.py" (without quotes).
+2. **Run the script:** Open your cmd, cd to the directory where you saved the file, and type: "python math_question_generator_main.py" (without quotes).
 
 ## Improvements to be made
 
