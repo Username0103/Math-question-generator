@@ -20,5 +20,5 @@ This is a simple command-line math quiz game written in Python. It allows you to
 
 * **More Operations:** Include exponents, square roots, etc.
 * **A GUI:** Turning the program into an executable instead of having it run on your terminal.
-* **High-Scores:** Saving high scorees.
+* **High Scores:** Saving high scores permanently to some other file.
 * **SFX:** Having a sound effect for the correct answer and one for the wrong answer.
