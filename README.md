@@ -2,7 +2,7 @@
 
 This is a simple command-line math quiz game written in Python. It allows you to test your arithmetic skills with randomly generated questions.
 
-## Key Features
+## Current Features
 
 * **Difficulty Level Selection:** You can set the difficulty by choosing a maximum number for the random number generation. Higher numbers are harder.
 * **Four Basic Operations:** The program includes addition, subtraction, multiplication, and division.
